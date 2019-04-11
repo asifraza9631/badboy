@@ -3,3 +3,13 @@ i love to play cricket
 i love to eat chicken
 
 i love to code
+
+my favorite programmming languages are : 
+java
+c 
+c++
+html
+css
+sql
+pl/sql
+
